@@ -1,0 +1,11 @@
+"To Kill a Mockingbird" , 978-0-06-112008-4, Harper Lee, 1960,J. B. Lippincott & Co.
+
+"The Great Gatsby" , 978-0-7432-7356-5, F. Scott Fitzgerald,1925,Charles Scribner's Sons.
+
+"1984" ,978-0-452-28423-4,George Orwell, 1949, Secker & Warburg.
+
+"The Catcher in the Rye" ,978-0-316-76948-0,J.D. Salinger,1951,Little-Brown and Company.
+
+"Harry Potter and the Sorcerer's Stone" , 978-0-7475-3269-6, J.K. Rowling, 1997, Bloomsbury Publishing.
+
+"The Hobbit" , 978-0-261-10211-0, J.R.R. Tolkien, 1937, George Allen & Unwin.
