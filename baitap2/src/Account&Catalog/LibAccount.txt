@@ -1,0 +1,34 @@
+Một số tài khoản quản lý thư viện dùng để đăng nhập
+
+Mã số tài khoản: 1221
+Loại tài khoản: L
+Họ tên: Nguyen Thanh An
+Ngày tháng năm sinh: 19-9-2004
+Số điện thoại: 034123492
+Email: nguyenthanhan199@gmail.com
+Địa chỉ: HCM
+Tình trạng tài khoản: active
+Ngày bắt đầu làm việc: 19-9-2020
+Tình trạng hôn nhân: single
+
+Mã số tài khoản: 1225
+Loại tài khoản: L
+Họ tên: Doãn Chí Bình
+Ngày tháng năm sinh: 13-9-2004
+Số điện thoại: 034931649
+Email: doanchibinh139@gmail.com
+Địa chỉ: HCM
+Tình trạng tài khoản: active
+Ngày bắt đầu làm việc: 19-8-2021
+Tình trạng hôn nhân: single
+
+Mã số tài khoản: 1226
+Loại tài khoản: L
+Họ tên: Lý Trung Bình
+Ngày tháng năm sinh: 14-6-2004
+Số điện thoại: 0316943213
+Email: lytrungbinh146@gmail.com
+Địa chỉ: Da Nang
+Tình trạng tài khoản: closed
+Ngày bắt đầu làm việc: 12-9-2021
+Tình trạng hôn nhân: divorced
