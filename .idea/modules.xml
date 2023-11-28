@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/BT3/BT3.iml" filepath="$PROJECT_DIR$/baitaptrenlop/BT3/BT3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT6/BT6.iml" filepath="$PROJECT_DIR$/BT6/BT6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/b1_1/b1_1.iml" filepath="$PROJECT_DIR$/baitaptrenlop/b1_1/b1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/b2_2/b2_2.iml" filepath="$PROJECT_DIR$/baitaptrenlop/b2_2/b2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/b2_4/b2_4.iml" filepath="$PROJECT_DIR$/baitaptrenlop/b2_4/b2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/b4_6/b4_6.iml" filepath="$PROJECT_DIR$/baitaptrenlop/b4_6/b4_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1NC/baitap1NC.iml" filepath="$PROJECT_DIR$/baitap1NC/baitap1NC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap2/baitap2.iml" filepath="$PROJECT_DIR$/baitap2/baitap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
+    </modules>
+  </component>
+</project>

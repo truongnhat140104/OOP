@@ -1,0 +1,2 @@
+BlCode | Your ID | Book Code | Date Borrow | Date Return 
+001	 M1	   001		06-10-2023   13-10-2023
