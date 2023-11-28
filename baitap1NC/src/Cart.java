@@ -1,23 +1,17 @@
-public class Card {
-    private List<Product> products;
+public class Cart {
+    private Product products;
+    private int number;
+    public Cart(Product products, Product number) {
+        this.products = products;
+        this.number = number.getQuantity();
+    }
+    public Cart(){}
 
-    public Cart() {
-        products = new ArrayList<>();
+    public Product getProducts() {
+        return products;
     }
 
-    public void addProduct(Products product) {
-        products.add(product);
-    }
-
-    public double calculateTotal() {
-        double total = 0;
-        for (Products product : products) {
-            total += product.getPrice();
-        }
-        return total;
-    }
-
-    public void checkout() {
-        // Implement the logic for checking out (e.g., generating an Order)
+    public String getProductName() {
+        return products.getName();
     }
 }

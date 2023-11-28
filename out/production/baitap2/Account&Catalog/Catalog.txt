@@ -1,0 +1,49 @@
+Danh sách thông tin sách
+
+Thông tin sách:
+Tựa sách: To Kill a Mockingbird
+ISBN: 978-0-06-112008-4
+Tác giả: Harper Lee
+Năm xuất bản: 1960
+Nhà xuất bản: J. B. Lippincott & Co.
+Tình trạng: available
+
+Thông tin sách:
+Tựa sách: The Great Gatsby
+ISBN: 978-0-7432-7356-5
+Tác giả: F. Scott Fitzgerald
+Năm xuất bản: 1925
+Nhà xuất bản: Charles Scribner's Sons
+Tình trạng: loaned
+
+Thông tin sách:
+Tựa sách: 1984
+ISBN: 978-0-452-28423-4
+Tác giả: George Orwell
+Năm xuất bản: 1949
+Nhà xuất bản: Secker & Warburg
+Tình trạng: loaned
+
+Thông tin sách:
+Tựa sách: The Catcher in the Rye
+ISBN: 978-0-316-76948-0
+Tác giả: J.D. Salinger
+Năm xuất bản: 1951
+Nhà xuất bản: Little Brown and Company
+Tình trạng: available
+
+Thông tin sách:
+Tựa sách: Harry Potter and the Sorcerer's Stone
+ISBN: 978-0-7475-3269-6
+Tác giả: J.K. Rowling
+Năm xuất bản: 1997
+Nhà xuất bản: Bloomsbury Publishing
+Tình trạng: loaned
+
+Thông tin sách:
+Tựa sách: The Hobbit
+ISBN: 978-0-261-10211-0
+Tác giả: J.R.R. Tolkien
+Năm xuất bản: 1937
+Nhà xuất bản: George Allen & Unwin
+Tình trạng: available

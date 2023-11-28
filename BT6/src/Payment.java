@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Payment {
+public class Payment {
+    public static boolean MakePayment(){
+        return true;
+    }
+
 }

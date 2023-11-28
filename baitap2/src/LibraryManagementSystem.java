@@ -469,10 +469,10 @@ class MemberAccount extends Account{
         }
     }
 }
-public class LibraryManagementSystem {
+public class LibraryManagementSyste+m {
     public static void main(String[] args) {
         // Khởi tạo danh sách các cuốn sách trong danh mục sách
-        System.out.println("Thông tin các cuốn sách trong danh mục sách\n");
+//        System.out.println("Thông tin các cuốn sách trong danh mục sách\n");
         List<Catalog> books = new ArrayList<>();
         // Thêm các cuốn sách vào danh sách
         books.add(new Catalog("To Kill a Mockingbird", "978-0-06-112008-4", "Harper Lee", 1960, "J. B. Lippincott & Co.","available"));
@@ -483,7 +483,7 @@ public class LibraryManagementSystem {
         books.add(new Catalog("The Hobbit", "978-0-261-10211-0", "J.R.R. Tolkien", 1937, "George Allen & Unwin","available"));
 
         // In ra thông tin sách trong danh mục
-        for (Catalog catalog : books) {
+        /*for (Catalog catalog : books) {
             System.out.println("Thông tin sách:");
             System.out.println("Tựa sách: " + catalog.getTitle());
             System.out.println("ISBN: " + catalog.getISBN());
@@ -492,10 +492,10 @@ public class LibraryManagementSystem {
             System.out.println("Nhà xuất bản: " + catalog.getPublisher());
             System.out.println("Tình trạng: " + catalog.getStatus());
             System.out.println();
-        }
+        }*/
 
         // Khởi tạo danh sách tài khoản quản lý thư viện và tài khoản thành viên
-        System.out.println("Một số tài khoản quản lý thư viện dùng để đăng nhập: ");
+//        System.out.println("Một số tài khoản quản lý thư viện dùng để đăng nhập: ");
         List<LibrarianAccount> accountLib = new ArrayList<>();
         // Thêm các tài khoản quản lý thư viện vào danh sách
         accountLib.add(new LibrarianAccount("1221",'L',"Nguyen Thanh An","19-9-2004","034123492","nguyenthanhan199@gmail.com","HCM","active","19-9-2020","single"));
@@ -503,7 +503,7 @@ public class LibraryManagementSystem {
         accountLib.add(new LibrarianAccount("1226",'L',"Lý Trung Bình","14-6-2004","0316943213","lytrungbinh146@gmail.com","Da Nang","closed","12-9-2021","divorced"));
 
         // In ra thông tin tài khoản quản lý thư viện
-        for (LibrarianAccount account : accountLib) {
+       /* for (LibrarianAccount account : accountLib) {
             System.out.println("Mã số tài khoản: " + account.getAccountID());
             System.out.println("Loại tài khoản: " + account.getAccountType());
             System.out.println("Họ tên: " + account.getFullname());
@@ -515,10 +515,10 @@ public class LibraryManagementSystem {
             System.out.println("Ngày bắt đầu làm việc: " + account.getStartingDate());
             System.out.println("Tình trạng hôn nhân: " + account.getMaritalStatus());
             System.out.println();
-        }
+        }*/
 
         // Khởi tạo danh sách tài khoản thành viên
-        System.out.println("Một số tài Member dùng để đăng nhập: ");
+//        System.out.println("Một số tài Member dùng để đăng nhập: ");
         List<MemberAccount> accountsMember = new ArrayList<>();
 
         // Thêm các tài khoản thành viên vào danh sách
@@ -528,7 +528,7 @@ public class LibraryManagementSystem {
         accountsMember.add(new MemberAccount("1227",'m',"Lý Thị Diệu","11-9-2004","0413649872","nguyenthidieu119@gmail.com","Ha Noi","closed","23-1-2020",4));
 
         // (In ra thông tin tài khoản thành viên)
-        for (MemberAccount account : accountsMember) {
+        /*for (MemberAccount account : accountsMember) {
             System.out.println("Mã số tài khoản: " + account.getAccountID());
             System.out.println("Loại tài khoản: " + account.getAccountType());
             System.out.println("Họ tên: " + account.getFullname());
@@ -540,7 +540,7 @@ public class LibraryManagementSystem {
             System.out.println("Ngày tham gia thư viện: " + account.getMembershipDate());
             System.out.println("Số sách đã mượn: " + account.getnBooks());
             System.out.println();
-        }
+        }*/
 
         Scanner scanner = new Scanner(System.in);
 
@@ -667,4 +667,3 @@ Hướng dẫn sử dụng Library Management System
 - Vì các giá trị đã được lưu trong code ở file "LibraryManagementSystem.java" nên thay đổi giá trị trong folder "Account&Catalog" sẽ không làm thay đổi giá trị kết quả.
 Xin không thay đổi các file trong folder "Account&Catalog" để tránh quên khi sử dụng.
 */
-

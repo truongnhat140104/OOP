@@ -1,16 +1,28 @@
-public class Products {
+public class Product {
     private String name;
     private double price;
     private String description;
     private int quantity;
 
-    public Products(String name, double price, String description, int quantity) {
+    public Product(String name, double price, String description, int quantity) {
         this.name = name;
         this.price = price;
         this.description = description;
         this.quantity = quantity;
     }
-    public String toString() {
-        return name + " - $" + price;
+    public String getName() {
+        return name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public int getQuantity() {
+        return quantity;
     }
 }
