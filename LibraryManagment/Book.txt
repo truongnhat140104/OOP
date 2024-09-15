@@ -1,4 +1,0 @@
-001 DacNhaTam Dale-Carnegie 1936 TuoiTre Loaned
-002 NhungNgayThoAu NguyenHong 1938 DoiNay Available
-003 Sapiens Yuval-Noah-Harari 2011 TuoiTre Available
-004 CayCamNgotCuaToi José-Mauro-de-Vasconcelos 1968 VanHoa Available

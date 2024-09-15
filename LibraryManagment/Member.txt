@@ -1,4 +1,0 @@
-M1 M NguyenDucGiaBao 11/01/2001 0772036521 abc@gmail.com hcm active 11/01/2011 1
-M2 M TranBinhMinh 12/01/2001 1234567890 a1@gmail.com hcm suspended 12/01/2011 2
-M3 M ThaiThiHuynhNhu 13/01/2001 1234567890 a2@gmail.com hcm closed 13/01/2011 3
-M4 M NguyenPhuongLienChi 14/01/2001 1234567890 a3@gmail.com hcm closed 13/01/2011 9
